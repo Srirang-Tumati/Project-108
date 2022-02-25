@@ -1,0 +1,41 @@
+body {
+    font-family: 'Comfortaa', cursive;
+    background: #ffd55a;
+    color: #000080;
+}
+
+.header_div {
+    background: #4955fd;
+    color: #a5e300;
+}
+
+.header_div p {
+    font-family: 'Permanent Marker', cursive;
+    color: black;
+    letter-spacing: 2px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.main_div button {
+    font-family: 'Righteous', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bold;
+    letter-spacing: 3px;
+    font-size: 17px;
+    background-color: #6dd47e;
+    color: black;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    font-size: 25px;
+    background: black;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px whitesmoke;
+}
